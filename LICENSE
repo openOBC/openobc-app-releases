@@ -1,0 +1,280 @@
+# OpenOBC Mobile Application Proprietary License
+
+**Version 1.0 — August 2026**
+
+Copyright © 2026 OpenOBC Project and its respective copyright holders.
+
+All rights reserved except as expressly granted by this License.
+
+## 1. Scope
+
+This License applies to the OpenOBC mobile application, including its proprietary source code, compiled binaries, application logic, user interface, proprietary graphics, icons, animations, configuration, and other materials specifically identified as part of the OpenOBC mobile application.
+
+Third-party libraries, frameworks, assets, services, and other components included in or used by the application remain subject to their respective licenses.
+
+## 2. Free Use
+
+The Official Version of the OpenOBC mobile application is provided for free use by end users.
+
+Subject to this License, users may:
+
+- install the Official Version;
+- use the application without purchasing a license;
+- use the application for personal purposes;
+- use the application for educational and research purposes;
+- use the application with compatible OpenOBC hardware;
+- use the application for vehicle diagnostics, development, testing, and engineering; and
+- create reasonable backup copies of the Official Version for their own use.
+
+No payment is required solely to obtain a license to use the basic Official Version.
+
+"Free use" refers to the absence of a mandatory license fee for use of the application and does not mean that the Software is open source or that its source code is freely available.
+
+## 3. Proprietary Software
+
+The OpenOBC mobile application is proprietary software.
+
+This License does not grant access to the application's source code.
+
+No rights are granted to:
+
+- modify the application;
+- create derivative works;
+- redistribute modified versions;
+- publish the source code;
+- reproduce proprietary portions of the source code;
+- decompile or disassemble the application except where such restriction is prohibited by applicable law;
+- circumvent technical protection mechanisms; or
+- create a substantially similar application based on the proprietary implementation of OpenOBC.
+
+All rights not expressly granted by this License are reserved.
+
+## 4. Redistribution
+
+Users may share information about the Official Version and may direct other users to its official distribution channels.
+
+Users may not commercially redistribute the OpenOBC mobile application.
+
+In particular, You may not:
+
+- sell copies of the application;
+- rent or lease the application;
+- charge a license fee for access to the application;
+- bundle the application into a commercial product for the purpose of selling access to the application;
+- distribute modified versions of the application;
+- distribute repackaged versions of the application; or
+- operate a commercial download or distribution service for the application.
+
+This restriction does not prevent distribution through official application stores or other distribution channels authorized by the copyright holders.
+
+## 5. Official Monetization
+
+The copyright holders retain the exclusive right to monetize the Official Version of the OpenOBC mobile application.
+
+Future versions of the Official Version may include, without limitation:
+
+- optional paid features;
+- in-app purchases;
+- subscriptions;
+- donations;
+- sponsorship mechanisms;
+- advertising;
+- premium functionality;
+- paid integrations; or
+- other monetization mechanisms.
+
+The introduction of paid features does not retroactively invalidate the rights granted under this License to use previously obtained versions of the application.
+
+The copyright holders may determine which features are free, optional, paid, advertisement-supported, or otherwise restricted in future versions.
+
+## 6. No Requirement to Pay
+
+Except where a specific feature or service is explicitly designated as paid, users are not required to pay for the basic use of the application.
+
+The copyright holders may provide certain functionality without charge and may subsequently introduce optional paid functionality.
+
+Nothing in this License guarantees that every feature of every future version will remain free.
+
+## 7. Privacy and Data Minimization
+
+OpenOBC is designed according to the principle of data minimization.
+
+The application shall not intentionally collect personal or technical data unless such data is reasonably necessary for:
+
+- the correct operation of the application;
+- communication with compatible OpenOBC hardware;
+- configuration or operation of OpenOBC firmware;
+- diagnostics explicitly requested by the user;
+- security and abuse prevention;
+- compatibility and reliability of the application; or
+- a feature explicitly enabled or requested by the user.
+
+The application shall not intentionally collect data solely because it is technically possible to collect it.
+
+## 8. No Sale of User Data
+
+Data obtained through the OpenOBC mobile application shall not be sold to third parties for any purpose.
+
+The copyright holders shall not sell, rent, license, broker, or otherwise commercially trade user data.
+
+This prohibition applies regardless of whether the data is collected directly by the application or through an OpenOBC-operated service.
+
+Nothing in this section prohibits the use of third-party infrastructure providers strictly as necessary to operate the application or provide a requested service, provided that such providers do not receive rights to sell or commercially trade the user's data.
+
+## 9. Data Required for Operation
+
+Where data is necessary for the correct operation of the application or OpenOBC firmware, the application may process such data to the extent reasonably necessary for that purpose.
+
+Examples may include:
+
+- Bluetooth identifiers required to establish a connection;
+- OpenOBC device identifiers;
+- firmware version information;
+- vehicle telemetry required to display requested information;
+- diagnostic information required to perform a requested operation;
+- application configuration;
+- crash information necessary to diagnose application failures; and
+- security information required to authenticate or protect communication.
+
+The application should avoid retaining such information longer than reasonably necessary for the stated purpose.
+
+## 10. User-Controlled Data
+
+Where technically feasible, information generated by the application for the user's use, including vehicle telemetry, diagnostic information, configuration data, logs, and trip information, should remain under the user's control and may be stored locally on the user's device.
+
+The application shall not transmit such information to OpenOBC-operated infrastructure unless transmission is necessary for a feature requested or enabled by the user, required for operation, or separately disclosed to the user.
+
+## 11. Privacy Policy
+
+The detailed handling of personal data and other information shall be described in the OpenOBC Privacy Policy.
+
+Where applicable, the Privacy Policy shall identify:
+
+- categories of data collected;
+- purposes of collection;
+- data retention periods;
+- third parties receiving data;
+- storage locations;
+- security measures;
+- user rights;
+- optional telemetry or analytics;
+- advertising technologies; and
+- mechanisms for deleting or controlling user data.
+
+If there is a conflict between this License and mandatory privacy or data-protection law, the applicable law shall prevail.
+
+## 12. Advertising
+
+The Official Version may contain advertising in future releases.
+
+Advertising may be provided directly by OpenOBC or through third-party advertising services.
+
+The presence of advertising does not grant advertisers ownership of OpenOBC or user data.
+
+Advertising providers shall only receive information to the extent necessary to provide the advertising functionality and as disclosed by the applicable Privacy Policy.
+
+The copyright holders may provide an option to disable advertising through an optional payment, subscription, donation, or other mechanism.
+
+## 13. Donations and Optional Payments
+
+The copyright holders may accept voluntary donations.
+
+Donations do not constitute a purchase of the Software or transfer ownership of any intellectual property.
+
+The copyright holders may also offer optional paid features, services, integrations, or other functionality.
+
+A payment for an optional feature grants only the rights explicitly associated with that feature and does not grant rights to the underlying source code or intellectual property.
+
+## 14. OpenOBC Firmware
+
+The OpenOBC mobile application may communicate with or operate OpenOBC firmware distributed under the GNU Affero General Public License version 3 (AGPLv3), GPLv3, or another applicable open-source license.
+
+The license governing the firmware is independent of this License.
+
+Nothing in this License restricts rights granted to users by the applicable open-source license governing the firmware.
+
+The proprietary status of the mobile application does not change the licensing terms of separately licensed OpenOBC firmware.
+
+## 15. Third-Party Software
+
+The application may contain third-party software distributed under open-source or proprietary licenses.
+
+Such components remain subject to their respective licenses.
+
+Nothing in this License removes or restricts rights that users receive directly from applicable third-party licenses.
+
+A list of third-party dependencies and their applicable licenses may be provided with the application or in the project's documentation.
+
+## 16. OpenOBC Name and Trademarks
+
+"OpenOBC", the OpenOBC logo, names, logos, visual identity, and other OpenOBC trademarks are not licensed under this License.
+
+You may refer to OpenOBC for purposes of accurately describing compatibility with the Official Version or OpenOBC hardware.
+
+You may not use OpenOBC trademarks in a way that falsely suggests that a modified, unofficial, or third-party product is an official OpenOBC product.
+
+## 17. Contributions
+
+Unless a separate agreement is established, the proprietary OpenOBC mobile application does not accept source-code contributions from the public.
+
+Suggestions, bug reports, documentation corrections, and other communications may be submitted according to the project's contribution procedures.
+
+The copyright holders may establish a separate Contributor License Agreement if external source-code contributions are accepted in the future.
+
+## 18. Updates
+
+The copyright holders may release updates, patches, new versions, or replacements for the application.
+
+Future versions may introduce new functionality, remove functionality, change supported hardware, change system requirements, or introduce optional monetization.
+
+No provision of this License guarantees that a particular version will remain available indefinitely.
+
+## 19. Warranty Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
+
+THE COPYRIGHT HOLDERS DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, ACCURACY, RELIABILITY, AND AVAILABILITY.
+
+## 20. Automotive Disclaimer
+
+The OpenOBC mobile application may interact with vehicle electronic systems, including CAN networks, ECUs, diagnostic systems, and other vehicle components.
+
+The application is provided as a development, diagnostic, monitoring, and control tool and is not represented as a certified safety-critical automotive system.
+
+The user is solely responsible for determining whether the application is appropriate for a particular vehicle or use.
+
+The copyright holders shall not be responsible for damage resulting from incorrect configuration, installation, modification, diagnostics, vehicle integration, or use of the application, to the maximum extent permitted by applicable law.
+
+## 21. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDERS SHALL NOT BE LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES ARISING FROM THE USE OR INABILITY TO USE THE SOFTWARE.
+
+THIS INCLUDES, WITHOUT LIMITATION, LOSS OF DATA, VEHICLE DAMAGE, HARDWARE DAMAGE, LOSS OF PROFITS, BUSINESS INTERRUPTION, OR OTHER ECONOMIC LOSS.
+
+## 22. Termination
+
+This License automatically terminates if You materially violate its terms.
+
+Upon termination, You must cease exercising the rights granted under this License and cease unauthorized redistribution of the Software.
+
+Termination does not affect rights granted by applicable third-party licenses.
+
+## 23. Reservation of Rights
+
+All rights not expressly granted by this License are reserved by the copyright holders.
+
+No implied license is granted.
+
+## 24. Contact
+
+Requests for permissions not expressly granted by this License should be directed to the OpenOBC copyright holders.
+
+---
+
+**OpenOBC Mobile Application**
+
+Copyright © 2026 OpenOBC Project and its respective copyright holders.
+
+**Proprietary Software — Free to Use — No Commercial Redistribution**
+
+All rights reserved except as expressly granted by this License.
